@@ -1,8 +1,8 @@
-#include<stdio.h>
-#include<stdlib.h>
-#include<sstream>
-#include<fstream> 
-#include<android-base/properties.h>
+#include <stdio.h>
+#include <stdlib.h>
+#include <sstream>
+#include <fstream> 
+#include <android-base/properties.h>
 
 #define THERMAL_SCONFIG "/sys/class/thermal/thermal_message/sconfig"
 #define THERMAL_LEVEL_DEFAULT 0
