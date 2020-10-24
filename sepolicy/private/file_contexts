@@ -1,2 +1,4 @@
 # DPM
 /system/product/bin/dpmd                                u:object_r:vendor_dpmd_exec:s0
+# Exthm GameMode
+/system/bin/powerctl                                u:object_r:powerctl_exec:s0

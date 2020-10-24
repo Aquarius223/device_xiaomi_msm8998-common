@@ -365,6 +365,10 @@ PRODUCT_PACKAGES += \
 # Recovery
 PRODUCT_PACKAGES += \
     librecovery_updater_xiaomi
+    
+# Exthm GameMode
+PRODUCT_PACKAGES += \
+    powerctl
 
 # RIL
 PRODUCT_PACKAGES += \
